@@ -45,9 +45,3 @@ Machine Learning, Flask, Python, Linear Regression, Data Preprocessing, Pandas, 
 - Data Visualization
 - Python Programming
 - Data Science
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aryanjaswal0507/CAR-PRICE-PREDICTION.git
